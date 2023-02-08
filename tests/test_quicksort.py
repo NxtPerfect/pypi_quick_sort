@@ -1,6 +1,6 @@
 import unittest
 import sys
-sys.path.insert(0, '/home/nxtperfect/Documents/Programming/Python/BiggerProjects/pypi_quick_sort/src')
+sys.path.insert(0, './src')
 from quick_sort import quick_sort
 
 
