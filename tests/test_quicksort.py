@@ -1,5 +1,7 @@
 import unittest
-from src.quicksort import quick_sort
+import sys
+sys.path.insert(0, '/home/nxtperfect/Documents/Programming/Python/BiggerProjects/pypi_quick_sort/src')
+from quick_sort import quick_sort
 
 
 class TestQuickSort(unittest.TestCase):
